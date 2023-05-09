@@ -17,7 +17,3 @@ This project requires the following dependencies:
 3. Install the dependencies using the command `npm install`.
 4. Start the development server using the command `npm start`.
 5. Open your web browser and go to `http://localhost:3000/`.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
